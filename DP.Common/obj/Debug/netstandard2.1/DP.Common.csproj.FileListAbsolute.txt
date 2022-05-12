@@ -1,0 +1,9 @@
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\bin\Debug\netstandard2.1\DP.Common.deps.json
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\bin\Debug\netstandard2.1\DP.Common.dll
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\bin\Debug\netstandard2.1\DP.Common.pdb
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.AssemblyInfoInputs.cache
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.AssemblyInfo.cs
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.csproj.CoreCompileInputs.cache
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.dll
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.pdb
