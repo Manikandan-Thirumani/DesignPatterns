@@ -12,5 +12,7 @@ namespace DP.Common.Models
         public string ComputerDetails { get; set; }
         public string Location { get; set; }
         public decimal BasicPay { get; set; }
+        public decimal PetrolAllowance { get; set; }
+        public decimal HouseAllowance { get; set; }
     }
 }

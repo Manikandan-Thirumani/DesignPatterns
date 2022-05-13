@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.Common", "DP.Common\DP.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory-DP", "Factory-DP\Factory-DP.csproj", "{4A285A0C-616B-4BB7-8738-AEEFF252860B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod-DP", "FactoryMethod-DP\FactoryMethod-DP.csproj", "{DFBA7D35-D9D2-4431-89A8-5109571F5071}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4A285A0C-616B-4BB7-8738-AEEFF252860B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A285A0C-616B-4BB7-8738-AEEFF252860B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A285A0C-616B-4BB7-8738-AEEFF252860B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBA7D35-D9D2-4431-89A8-5109571F5071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBA7D35-D9D2-4431-89A8-5109571F5071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBA7D35-D9D2-4431-89A8-5109571F5071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBA7D35-D9D2-4431-89A8-5109571F5071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
