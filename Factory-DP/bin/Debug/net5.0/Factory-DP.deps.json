@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Factory-DP/1.0.0": {
+        "dependencies": {
+          "DP.Common": "1.0.0"
+        },
+        "runtime": {
+          "Factory-DP.dll": {}
+        }
+      },
+      "DP.Common/1.0.0": {
+        "runtime": {
+          "DP.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factory-DP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DP.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

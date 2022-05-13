@@ -7,3 +7,4 @@ C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstand
 C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.csproj.CoreCompileInputs.cache
 C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.dll
 C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.pdb
+C:\manikandanT\My-leaining\Source\DesignPatterns\DP\DP.Common\obj\Debug\netstandard2.1\DP.Common.csproj.AssemblyReference.cache
